@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "PSR-4": {
+            "Mahara\\classes\\": "classes/",
+            "Mahara\\interfaces\\": "interfaces/",
+            "Mahara\\traits\\": "traits/"
+    }
+    },
+
+    "require": {
+        "monolog/monolog": "*"
+    }
+}
